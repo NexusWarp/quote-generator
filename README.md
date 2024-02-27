@@ -1,1 +1,1 @@
-# quote-generator using JavaScript.
+# quote-generator using JavaScript..,
